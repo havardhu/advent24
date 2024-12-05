@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AdventOfCode2024.Server.props" />
+</Project>

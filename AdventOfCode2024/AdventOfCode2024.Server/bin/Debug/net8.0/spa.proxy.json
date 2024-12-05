@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:59024",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\git\\advent\\AdventOfCode2024\\AdventOfCode2024.Server\\..\\adventofcode2024.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

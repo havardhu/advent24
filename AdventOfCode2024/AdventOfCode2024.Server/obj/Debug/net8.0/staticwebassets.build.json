@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "2D9FYHoQEgyvI6dD2f6uxj+PlrRf27uc4pcgIgkhSvI=",
+  "Source": "AdventOfCode2024.Server",
+  "BasePath": "_content/AdventOfCode2024.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\git\\advent\\AdventOfCode2024\\adventofcode2024.client\\adventofcode2024.client.esproj",
+      "Version": 2,
+      "Source": "adventofcode2024.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
